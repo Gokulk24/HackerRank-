@@ -1,4 +1,3 @@
-# HackerRank-
 #include <stdio.h>
 #include <stdlib.h>
 
